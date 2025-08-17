@@ -42,12 +42,17 @@ const developer = {
 ## 📊 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenodevv&theme=tokyo-night&hide_border=true" width="100%"/>
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deinusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deinusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+      </td>
+    </tr>
+  </table>
 </div>
-
-## 📈 Contribution Graph
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kenodevv&theme=tokyonight)
 
 ## 🌐 Connect with Me
 
@@ -61,13 +66,6 @@ const developer = {
 
 ---
 
-<div align="center">
-  
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
-
-⭐️ From [Keno](https://github.com/kenodevv)
-
-</div>
 
 <!-- Easter Egg für Entwickler die den Code lesen -->
 <!-- 
