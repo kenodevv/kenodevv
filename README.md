@@ -25,17 +25,6 @@ const developer = {
 };
 ```
 
-## 🔥 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenodevv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenodevv&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenodevv&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -56,22 +45,10 @@ const developer = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenodevv&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kenodevv&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kenodevv/deinusername/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
+  <img src="https://raw.githubusercontent.com/kenodevv/kenodevv/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ## 🌐 Connect with Me
