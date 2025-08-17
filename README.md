@@ -47,9 +47,7 @@ const developer = {
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kenodevv/kenodevv/output/github-contribution-grid-snake-dark.svg" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kenodevv&theme=tokyonight)
 
 ## 🌐 Connect with Me
 
@@ -67,7 +65,7 @@ const developer = {
   
 **"Code is like humor. When you have to explain it, it's bad." – Cory House**
 
-⭐️ From [deinusername](https://github.com/deinusername)
+⭐️ From [Keno](https://github.com/kenodevv)
 
 </div>
 
