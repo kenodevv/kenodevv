@@ -13,7 +13,7 @@
 
 ```javascript
 const developer = {
-    name: "Dein Name",
+    name: "Keno",
     location: "Deutschland 🇩🇪",
     code: ["JavaScript", "PHP", "TypeScript", "Python", "Java"],
     technologies: {
