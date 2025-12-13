@@ -14,7 +14,7 @@
 ```javascript
 const developer = {
     name: "Keno",
-    location: "Deutschland 🇩🇪",
+    location: "Germany 🇩🇪",
     code: ["JavaScript", "PHP", "TypeScript", "Python", "Java"],
     technologies: {
         frontend: ["React", "HTML5", "CSS3", "Tailwind"],
@@ -39,21 +39,6 @@ const developer = {
 
 </div>
 
-## 📊 GitHub Activity Graph
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenodevv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenodevv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -66,8 +51,6 @@ const developer = {
 
 ---
 
-
-<!-- Easter Egg für Entwickler die den Code lesen -->
 <!-- 
   ██╗  ██╗███████╗██╗     ██╗      ██████╗ 
   ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
@@ -78,6 +61,3 @@ const developer = {
   
 -->
 
-<!-- Optional: WakaTime Stats -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
