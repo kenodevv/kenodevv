@@ -30,9 +30,7 @@ const developer = {
 ## 🔥 GitHub Stats
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=kenodevv&theme=tokyonight)](https://git.io/streak-stats)
-
+  <img src="https://streak-stats.demolab.com?user=kenodevv&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 💻 Tech Stack
