@@ -29,9 +29,9 @@ const developer = {
 
 ## 🔥 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kenodevv&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center"> 
+    <img src="https://github-readme-streak-stats-eta-three.vercel.app?user=kenodevv&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
 
 ## 💻 Tech Stack
 
