@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Explorer;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Founder+%40+ShiftProxies;Open+Source+Enthusiast;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kenodevv&color=brightgreen&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/kenodevv?label=Follow&style=social)](https://github.com/kenodevv)
@@ -10,20 +10,30 @@
 </div>
 
 ## 🚀 About Me
-
 ```javascript
 const developer = {
     name: "Keno",
     location: "Germany 🇩🇪",
     code: ["JavaScript", "PHP", "TypeScript", "Python", "Java"],
     technologies: {
-        frontend: ["React", "HTML5", "CSS3", "Tailwind"],
+        frontend: ["React", "Next.js", "HTML5", "CSS3", "Tailwind"],
         backend: ["Node.js", "Express", "Flask"],
         databases: ["MongoDB", "PostgreSQL", "MySQL"]
-    }
-    currently: "Building Websites @ Coco & Molitor"
+    },
+    currently: [
+        "Building ShiftProxies - Premium Proxy Service",
+        "Web Developer @ Coco & Molitor"
+    ]
 };
 ```
+
+## 🔥 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kenodevv&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ## 💻 Tech Stack
 
@@ -34,6 +44,7 @@ const developer = {
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -44,6 +55,7 @@ const developer = {
 <div align="center">
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kenodev_)
+[![ShiftProxies](https://img.shields.io/badge/-ShiftProxies-6366F1?style=for-the-badge&logo=lightning&logoColor=white)](https://shiftproxies.com/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://coco-molitor.com/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@kenodev.com)
 
@@ -58,6 +70,4 @@ const developer = {
   ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
   ██║  ██║███████╗███████╗███████╗╚██████╔╝
   ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ 
-  
 -->
-
