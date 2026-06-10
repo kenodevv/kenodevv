@@ -21,8 +21,8 @@ const developer = {
         databases: ["MongoDB", "PostgreSQL", "MySQL"]
     },
     currently: [
-        "Building ShiftProxies - Premium Proxy Service",
-        "Web Developer @ Coco & Molitor"
+        "Building ShiftProxies",
+        "Freelance Developer"
     ]
 };
 ```
@@ -54,7 +54,7 @@ const developer = {
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kenodev_)
 [![ShiftProxies](https://img.shields.io/badge/-ShiftProxies-6366F1?style=for-the-badge&logo=lightning&logoColor=white)](https://shiftproxies.com/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://coco-molitor.com/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kenodev.com/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@kenodev.com)
 
 </div>
