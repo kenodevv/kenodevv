@@ -1,54 +1,8 @@
-# 👋 Hi there, I'm Keno
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Founder+%40+ShiftProxies;Open+Source+Enthusiast;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=kenodevv&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/kenodevv?label=Follow&style=social)](https://github.com/kenodevv)
-
-</div>
-
-## 🚀 About Me
-```javascript
-const developer = {
-    name: "Keno",
-    location: "Germany 🇩🇪",
-    code: ["JavaScript", "PHP", "TypeScript", "Python", "Java"],
-    technologies: {
-        frontend: ["React", "Next.js", "HTML5", "CSS3", "Tailwind"],
-        backend: ["Node.js", "Express", "Flask"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL"]
-    },
-    currently: [
-        "Building ShiftProxies",
-        "Freelance Developer"
-    ]
-};
-```
-
-## 🔥 GitHub Stats
 
 <p align="center"> 
     <img src="https://github-readme-streak-stats-eta-three.vercel.app?user=kenodevv&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
-## 💻 Tech Stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-## 🌐 Connect with Me
 
 <div align="center">
 
@@ -59,13 +13,3 @@ const developer = {
 
 </div>
 
----
-
-<!-- 
-  ██╗  ██╗███████╗██╗     ██╗      ██████╗ 
-  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
-  ███████║█████╗  ██║     ██║     ██║   ██║
-  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
-  ██║  ██║███████╗███████╗███████╗╚██████╔╝
-  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ 
--->
